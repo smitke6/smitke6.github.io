@@ -2,7 +2,7 @@
 layout: post
 title: "שפות"
 ---
-<div dir="rtl" lang="he" markdown="1">
+<div dir="rtl" lang="he" align="right" markdown="1">
 
 | שפת דיבור | שפת תכנות | רמת שליטה ונקודות דמיון | הערות |
 | :--- | :--- | :--- | :--- |
