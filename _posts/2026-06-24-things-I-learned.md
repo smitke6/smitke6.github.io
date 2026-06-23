@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "PhD Graduation"
-date: 2026-05-23
+title: "Things I learned tonight"
+date: 2026-06-24
 ---
 Things I learned tonight:
 1. If your fingers burn after cutting spicy peppers, washing them in water won't help because capsaicin is insoluble in water.
