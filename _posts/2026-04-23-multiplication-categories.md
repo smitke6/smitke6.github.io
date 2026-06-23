@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On the Commutativity of Multiplication and Categorification"
+title: "Multiplying natural numbers: commutativity and two categorifications"
 date: 2026-04-23
 ---
 
