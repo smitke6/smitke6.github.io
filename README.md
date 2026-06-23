@@ -10,7 +10,7 @@
 Welcome to my personal website.
 
 ## Navigation
-* [Academic Pages](academic.md)
+* [Academic Profile](academic.md)
 * [Blog](blog.md)
 * [Creative Writing](creative.md)
 * [Nonlocal Dialect](archive.md)
