@@ -25,4 +25,12 @@ We can, of course, prove commutativity: "Three times five" is the disjoint union
 But this is actually cheating! I covertly passed through the Cartesian product categorification of multiplication, which easily shows why multiplication is commutative. This implies that the Cartesian product inherently contains more information than the monoid action (where "five times three" is strictly "five instances of three").
 
 I don't pretend to offer a "solution" to this pedagogical problem (if it even is one—it might just be in my head!). I mostly just wanted to offer some food for thought.
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
