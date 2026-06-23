@@ -20,7 +20,7 @@ This is the collection of my social media posts, thoughts, and writings from ove
 ## Hebrew (ניב מקומי)
 <div dir="rtl" lang="he">
 <ul>
-  <li><a href="archive/he/2017-04-10-languages.md">שפות</a></li>
+  <li><a href="archive/he/2017-04-10-languages">שפות</a></li>
 </ul>
 </div>
 
