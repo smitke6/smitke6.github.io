@@ -6,11 +6,12 @@ date: 2026-05-23
 
 My PhD was conferred recently. I'd like to share the first paragraph of the Acknowledgments section of my dissertation. It starts with an epigraph:
 
-<div dir="rtl" lang="he">
-*"מה נוסיף ונמנה? מדברים פעוטים /
-  נוצרות אגדות זה החומר"*
-<br>
-"מסביב למדורה" / נתן אלתרמן
+<div dir="rtl" lang="he" style="text-align: center; line-height: 1.8;">
+  <strong>מה נוסיף ונמנה? מדברים פעוטים</strong>
+  <br>
+  <strong>נוצרות אגדות זה החומר</strong>
+  <hr style="width: 30%; margin: 12px auto; border: 0; border-top: 1px solid #555;">
+  <span style="font-size: 0.9em; color: #888;">"מסביב למדורה" / נתן אלתרמן</span>
 </div>
 <br>
 
