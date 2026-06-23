@@ -3,6 +3,7 @@ layout: post
 title: "Things I learned tonight"
 date: 2026-06-24
 ---
+
 Things I learned tonight:
 1. If your fingers burn after cutting spicy peppers, washing them in water won't help because capsaicin is insoluble in water.
 2. To relieve the burn, washing your hands with oil or alcohol may help, since capsaicin is soluble in both (although neither of those helped me).
