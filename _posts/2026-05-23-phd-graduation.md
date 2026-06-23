@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Graduating from my PhD: The First Paragraph"
+title: "PhD Graduation"
 date: 2026-05-23
 ---
 
-My PhD was conferred last week. I'd like to share the first paragraph of the Acknowledgments section of my dissertation. It starts with an epigraph:
+My PhD was conferred recently. I'd like to share the first paragraph of the Acknowledgments section of my dissertation. It starts with an epigraph:
 
 <div dir="rtl" lang="he">
 "מה נוסיף ונמנה? מדברים פעוטים /
