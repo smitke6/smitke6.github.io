@@ -13,4 +13,4 @@ Welcome to my personal website.
 * [Academic Pages](academic.md)
 * [Blog](blog.md)
 * [Creative Writing](creative.md)
-* [Nonlocal Dialect](nld.md)
+* [Nonlocal Dialect](archive.md)
