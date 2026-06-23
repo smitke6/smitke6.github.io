@@ -14,8 +14,10 @@ Welcome to my academic page. I am a theoretical physicist and mathematician. Cur
 * Quantum Foundations
 
 ### Selected Papers
-* **[Equivalence of mutually unbiased bases via orbits: general theory and a d=4 case study](https://doi.org/10.1088/1751-8121/ae4301)** - *An exploration of the equivalence of mutually unbiased bases (MUBs) using orbit theory, deriving new equivalences in $d=4$.*
-* **[Optimal quantum likelihood estimation](https://doi.org/10.1088/2058-9565/ae2b31)** - *A proposed optimization strategy for Quantum Likelihood Estimation (QLE) that dynamically selects parameters to maximize mutual information between measurement outcomes and the true Hamiltonian.*
+* **[Equivalence of mutually unbiased bases via orbits: general theory and a d=4 case study](https://doi.org/10.1088/1751-8121/ae4301)** (with Eliahu Cohen) - *An exploration of the equivalence of mutually unbiased bases (MUBs) using orbit theory, deriving new equivalences in $d=4$.*
+* **[Optimal quantum likelihood estimation](https://doi.org/10.1088/2058-9565/ae2b31)** (with Alon Levi, Ziv Ossi and Eliahu Cohen) - *A proposed optimization strategy for Quantum Likelihood Estimation (QLE) that dynamically selects parameters to maximize mutual information between measurement outcomes and the true Hamiltonian.*
+
+For a complete list of my publications, please see [my Google Scholar page](https://scholar.google.co.il/citations?user=-nJ8BkQAAAAJ).
 
 <script>
   MathJax = {
