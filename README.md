@@ -1,5 +1,4 @@
-# Amit Te'eni
-Welcome to my personal website.
+# Welcome to my personal website.
 
 ## Navigation
 * [Academic Pages](academic.md)
