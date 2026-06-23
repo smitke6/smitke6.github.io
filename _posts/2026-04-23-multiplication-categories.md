@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the Commutativity of Multiplication and Categorification"
-date: 2026-06-23
+date: 2026-04-23
 ---
 
 When we first encounter natural numbers, we don't immediately meet their abstract form. Instead, we are introduced to their more "natural" aspect: a *categorification* of the natural numbers via the category $\mathbf{FSet}$ of finite sets. 
