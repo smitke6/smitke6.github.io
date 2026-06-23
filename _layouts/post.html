@@ -1,0 +1,17 @@
+---
+layout: post
+---
+
+{{ content }}
+
+{% if page.first_comment %}
+  <hr style="margin-top: 2rem; border: 0; border-top: 1px dashed #ccc;">
+  <details class="alt-joke-dropdown" style="margin-top: 1rem;">
+    <summary style="cursor: pointer; color: #777; font-style: italic; font-size: 0.9em; user-select: none;">
+      התגובה הראשונה בפייסבוק...
+    </summary>
+    <div style="margin-top: 0.5rem; padding: 0.5rem 1rem; border-right: 3px solid #007acc; background-color: #f9f9f9; font-weight: 500;">
+      {{ page.first_comment }}
+    </div>
+  </details>
+{% endif %}
