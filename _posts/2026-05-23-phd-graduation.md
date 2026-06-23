@@ -7,8 +7,8 @@ date: 2026-05-23
 My PhD was conferred recently. I'd like to share the first paragraph of the Acknowledgments section of my dissertation. It starts with an epigraph:
 
 <div dir="rtl" lang="he">
-"מה נוסיף ונמנה? מדברים פעוטים /
-נוצרות אגדות זה החומר"
+*"מה נוסיף ונמנה? מדברים פעוטים /
+  נוצרות אגדות זה החומר"*
 <br>
 "מסביב למדורה" / נתן אלתרמן
 </div>
