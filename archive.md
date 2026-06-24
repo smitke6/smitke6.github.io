@@ -12,7 +12,7 @@
 
 ---
 
-# Archive
+# Jokes & Fun
 
 This is the collection of my social media posts, thoughts, and writings from over the years.
 <img src="assets/cover.png" alt="Page Cover" style="max-width: 100%; display: block; margin: 20px auto;">
