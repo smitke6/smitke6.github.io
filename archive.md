@@ -30,6 +30,7 @@ This is the collection of my social media posts, thoughts, and writings from ove
 
 ## English (Nonlocal Dialect)
 <ul>
+  <li><a href="archive/en/2026-07-10-legumes">Legumes</a></li>
   <li><a href="archive/en/2026-06-28-auditor">Auditor</a></li>
   <li><a href="archive/en/2018-09-19-paradox">Paradox</a></li>
   <li><a href="archive/en/2018-09-18-date">Date</a></li>
