@@ -1,6 +1,18 @@
----
-layout: default
----
+<style>
+  body { font-family: "Times New Roman", Times, serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+  .pagination { margin-top: 40px; border-top: 1px solid #ccc; padding-top: 20px; }
+</style>
+
+<nav>
+  <a href="/">Home</a> | 
+  {% if page.category == 'blog' %}
+    <a href="/blog.md">Back to Blog</a>
+  {% else %}
+    <a href="/archive.md">Back to Nonlocal Dialect</a>
+  {% endif %}
+</nav>
+
+<hr>
 
 {{ content }}
 
@@ -15,3 +27,22 @@ layout: default
     </div>
   </details>
 {% endif %}
+
+<hr>
+
+<div class="pagination">
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}">← Previous</a> |
+  {% endif %}
+  
+  <a href="/">Home</a>
+  
+  {% if page.next %}
+    | <a href="{{ page.next.url }}">Next →</a>
+  {% endif %}
+</div>
+
+<script>
+  MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']] } };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
