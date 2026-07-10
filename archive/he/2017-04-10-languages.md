@@ -1,5 +1,6 @@
 ---
 layout: post
+category: joke
 title: "שפות"
 ---
 <div dir="rtl" lang="he" markdown="1">
