@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 ---
 [← Back to Main Page](/)
 
