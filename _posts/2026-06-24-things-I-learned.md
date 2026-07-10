@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: "Things I learned tonight"
 date: 2026-06-24
 ---
