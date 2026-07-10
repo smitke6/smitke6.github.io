@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: "Multiplying natural numbers: commutativity and two categorifications"
 date: 2026-04-23
 ---
