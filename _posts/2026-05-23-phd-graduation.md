@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: "PhD Graduation"
 date: 2026-05-23
 ---
