@@ -10,6 +10,7 @@ layout: minimal
     padding: 0 20px;
   }
 </style>
+## Amit Te'eni
 Welcome to my personal website.
 
 ## Navigation
