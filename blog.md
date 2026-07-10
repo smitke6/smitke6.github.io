@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [← Back to Main Page](/)
 
 ---
