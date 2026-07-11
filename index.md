@@ -17,4 +17,4 @@ Welcome to my personal website.
 * [Academic Profile](academic.md)
 * [Blog](blog.md)
 * [Creative Writing](creative.md)
-* [Nonlocal Dialect](archive.md)
+* [Fun & Jokes](archive.md)
