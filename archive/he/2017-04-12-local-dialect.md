@@ -2,6 +2,7 @@
 layout: post
 category: joke
 title: "ניב מקומי"
+date: 2017-04-12
 ---
 
 <div dir="rtl" lang="he" markdown="1">
