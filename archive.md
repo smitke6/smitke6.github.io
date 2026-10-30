@@ -23,6 +23,7 @@ This is the collection of my social media posts, thoughts, and writings from ove
 ## Hebrew (ניב מקומי)
 <div dir="rtl" lang="he">
 <ul>
+  <li><a href="archive/he/2017-04-14-pay-table">טבלת שכר</a></li>
   <li><a href="archive/he/2017-04-12-local-dialect">ניב מקומי</a></li>
   <li><a href="archive/he/2017-04-12-meta-culture">מטא-תרבות</a></li>
   <li><a href="archive/he/2017-04-14-abuse-1">Abuse of Notation</a></li>
