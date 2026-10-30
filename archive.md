@@ -27,7 +27,7 @@ This is the collection of my social media posts, thoughts, and writings from ove
   <li><a href="archive/he/2017-04-14-abuse-1">Abuse of Notation</a></li>
   <li><a href="archive/he/2017-04-10-quote">ציטוט</a></li>
   <li><a href="archive/he/2017-04-10-languages">שפות</a></li>
-  <li><a href="archive/he/2017-04-08-paradox">פרדוקס</a></li>
+  <li><a href="archive/he/2017-04-10-paradox">פרדוקס</a></li>
   <li><a href="archive/he/2017-04-08-date">דייט</a></li>
   <li><a href="archive/he/2015-08-23-baby-names">שמות לתינוקות</a></li>
 </ul>
