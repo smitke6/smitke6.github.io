@@ -2,6 +2,7 @@
 layout: post
 category: joke
 title: "מטא-תרבות"
+date: 2017-04-12
 ---
 
 <table style="width: 100%; border-collapse: collapse; text-align: right; direction: rtl;">
