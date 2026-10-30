@@ -3,7 +3,7 @@ layout: post
 category: joke
 title: "שמות לתינוקות"
 ---
-<div dir="rtl">
+<div dir="rtl" lang="he" markdown="1">
 כשירות לציבור ומחווה ל-xkcd, הריני גאה להציג בפניכם רשימת שמות עבריים מומלצים לתינוקות (של מישהו אחר)
 
 ## בנים
