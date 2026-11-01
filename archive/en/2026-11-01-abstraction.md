@@ -3,7 +3,7 @@ layout: post
 category: joke
 title: "Abstraction"
 date: 2026-11-01
-first_comment: "Please reach out if you would like to invest in Qqq Qqqqq Qqq!"
+first_comment: "... or Sauron, or Darth Vader, or any other object in the category "Evil"."
 ---
 Abstraction is fundamental to mathematics. Essentially, abstraction filters out specific details may differ between the objects of interest, and identifies core concepts that generalize many examples at once. One can identify the following seven levels of mathematical abstraction:
 1. **Numbers:** Initially, we may care about quantities of "actual things", or length/area/volume of geometric shapes. Numbers can be assigned to any of these examples, and arithmetic operations "don't care" whether the numbers refer to apples, oranges, length of segments etc.
