@@ -5,7 +5,15 @@ title: "The Local Dialect"
 date: 2018-09-19
 ---
 
-<table style="width: 100%; border-collapse: collapse; text-align: left;">
+<style>
+  .local-dialect-table,
+  .local-dialect-table th,
+  .local-dialect-table td {
+    direction: ltr !important;
+    text-align: left !important;
+  }
+</style>
+<table class="local-dialect-table" style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #ccc;">
       <th style="border: 1px solid #000; padding: 8px;">Math course</th>
@@ -40,7 +48,7 @@ date: 2018-09-19
       <td rowspan="2" style="border: 1px solid #000; padding: 8px;">Multi-variable calculus</td>
       <td style="border: 1px solid #000; padding: 8px;">Spherical coordinates</td>
       <td style="border: 1px solid #000; padding: 8px;">Same thing, except <i>θ</i> and <i>ϕ</i> have opposite meanings</td>
-      <td rowspan="2" style="border: 1px solid #000; padding: 8px;">For no reason whatsoever</td>
+      <td style="border: 1px solid #000; padding: 8px;">For no reason whatsoever</td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Jacobian, parametrization</td>
