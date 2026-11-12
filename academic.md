@@ -17,9 +17,10 @@ Welcome to my academic page. I am a theoretical physicist and mathematician. Cur
 * Quantum Foundations
 
 ### Selected Papers
-* **[Oracle problems as communication tasks and optimization of quantum algorithms](https://doi.org/10.1103/5qsb-5jy5)** (with Zohar Schwartzman-Nowik, Marcin Nowakowski, Paweł Horodecki and Eliahu Cohen) - *An information-theoretic framework for analyzing and optimizing non-adaptive quantum algorithms for oracle classification problems.*
-* **[Equivalence of mutually unbiased bases via orbits: general theory and a d=4 case study](https://doi.org/10.1088/1751-8121/ae4301)** (with Eliahu Cohen) - *An exploration of the equivalence of mutually unbiased bases (MUBs) using orbit theory, deriving new equivalences in $d=4$.*
-* **[Optimal quantum likelihood estimation](https://doi.org/10.1088/2058-9565/ae2b31)** (with Alon Levi, Ziv Ossi and Eliahu Cohen) - *A proposed optimization strategy for Quantum Likelihood Estimation (QLE) that dynamically selects parameters to maximize mutual information between measurement outcomes and the true Hamiltonian.*
+* **[Oracle problems as communication tasks and optimization of quantum algorithms](https://doi.org/10.1103/5qsb-5jy5)** (with Zohar Schwartzman-Nowik, Marcin Nowakowski, Paweł Horodecki and Eliahu Cohen) -- *An information-theoretic framework for analyzing and optimizing non-adaptive quantum algorithms for oracle classification problems.*
+* **[Equivalence of mutually unbiased bases via orbits: general theory and a d=4 case study](https://doi.org/10.1088/1751-8121/ae4301)** (with Eliahu Cohen) -- *An exploration of the equivalence of mutually unbiased bases (MUBs) using orbit theory, deriving new equivalences in $d=4$.*
+* **[Optimal quantum likelihood estimation](https://doi.org/10.1088/2058-9565/ae2b31)** (with Alon Levi, Ziv Ossi and Eliahu Cohen) -- *A proposed optimization strategy for Quantum Likelihood Estimation (QLE) that dynamically selects parameters to maximize mutual information between measurement outcomes and the true Hamiltonian.*
+* **[Multiplicative Bell inequalities](https://doi.org/10.1103/PhysRevA.99.040102)** (with Bar Y. Peled, Eliahu Cohen and Avishy Carmi) -- *Introduces a class of Bell inequalities built from products---rather than linear combinations---of correlators, yielding closed-form classical and Tsirelson bounds via a geometric coordination game.*
 
 For a complete list of my publications, please see [my Google Scholar page](https://scholar.google.co.il/citations?user=-nJ8BkQAAAAJ).
 
