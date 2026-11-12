@@ -53,6 +53,7 @@ date: 2018-09-19
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">Jacobian, parametrization</td>
       <td style="border: 1px solid #000; padding: 8px;">Line / surface / volume element</td>
+      <td style="border: 1px solid #000; padding: 8px;"></td>
     </tr>
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">PDEs &amp; Fourier series</td>
