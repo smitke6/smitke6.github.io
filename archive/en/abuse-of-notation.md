@@ -38,12 +38,12 @@ date: 2018-09-20
       <td style="padding: 12px; vertical-align: middle; text-align: left;">$$\hat{\hat{\delta}}$$</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
-      <td style="padding: 12px; vertical-align: middle; text-align: left;">$f$-th element of the Fourier array</td>
+      <td style="padding: 12px; vertical-align: middle; text-align: left;">The $f$-th element of the Fourier array</td>
       <td style="padding: 12px; vertical-align: middle; text-align: left;">$$F[f]$$</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px; vertical-align: middle; text-align: left;">The member “14” of the object “3”</td>
-      <td style="padding: 12px; vertical-align: middle; text-align: left;"><code>3.14</code></td>
+      <td style="padding: 12px; vertical-align: middle; text-align: center;"><code>3.14</code></td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px; vertical-align: middle; text-align: left;">The member “infinity” of the object which “n” points at</td>
