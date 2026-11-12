@@ -14,15 +14,15 @@ date: 2018-09-20
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid #eee;">
-      <td style="padding: 12px; vertical-align: middle; text-align: left;">complex conjugate of int</td>
-      <td style="padding: 12px; vertical-align: middle; text-align: left;"><code>int*</code></td>
+      <td style="padding: 12px; vertical-align: middle; text-align: left;">The complex conjugate of int</td>
+      <td style="padding: 12px; vertical-align: middle; text-align: center;"><code>int*</code></td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
-      <td style="padding: 12px; vertical-align: middle; text-align: left;">Kleene star of wavefunction $$\psi$$</td>
+      <td style="padding: 12px; vertical-align: middle; text-align: left;">Kleene star of wavefunction $\psi$</td>
       <td style="padding: 12px; vertical-align: middle; text-align: left;">$$\psi^*$$</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
-      <td style="padding: 12px; vertical-align: middle; text-align: left;">Pointer to the alphabet $$\Sigma$$</td>
+      <td style="padding: 12px; vertical-align: middle; text-align: left;">Pointer to the alphabet $\Sigma$</td>
       <td style="padding: 12px; vertical-align: middle; text-align: left;">$$\Sigma^*$$</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
@@ -38,7 +38,7 @@ date: 2018-09-20
       <td style="padding: 12px; vertical-align: middle; text-align: left;">$$\hat{\hat{\delta}}$$</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
-      <td style="padding: 12px; vertical-align: middle; text-align: left;">$$f$$-th element of the Fourier array</td>
+      <td style="padding: 12px; vertical-align: middle; text-align: left;">$f$-th element of the Fourier array</td>
       <td style="padding: 12px; vertical-align: middle; text-align: left;">$$F[f]$$</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
