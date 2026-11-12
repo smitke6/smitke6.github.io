@@ -3,10 +3,10 @@ layout: post
 category: joke
 title: "כימיה"
 date: 2017-06-03
-first_comment:
-"What's so noble anout gas anyway?  
-וגם: 'רדיקל חופשי' נשמע כמו מישהו ברשימת המבוקשים של ה-CIA.  
-וגם: מי שלא קורא את הבונוסים אפס מוחלט!"
+first_comment: |
+  What's so noble anout gas anyway?  
+  וגם: 'רדיקל חופשי' נשמע כמו מישהו ברשימת המבוקשים של ה-CIA.  
+  וגם: מי שלא קורא את הבונוסים אפס מוחלט!
 ---
 
 <p align="right">
