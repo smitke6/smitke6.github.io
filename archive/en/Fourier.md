@@ -3,6 +3,7 @@ layout: post
 category: joke
 title: "Ineffective Fourier transforms"
 date: 2017-05-30
+first_comment: "This table also appears in my doctoral thesis."
 ---
 
 *(A joke inspired by [xkcd #1185](https://xkcd.com/1185))*
