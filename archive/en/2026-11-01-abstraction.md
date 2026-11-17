@@ -5,7 +5,7 @@ title: "Abstraction"
 date: 2026-11-01
 first_comment: "... or Sauron, or Darth Vader, or any other object in the category 'Evil'."
 ---
-Abstraction is fundamental to mathematics. Essentially, abstraction filters out specific details may differ between the objects of interest, and identifies core concepts that generalize many examples at once. One can identify the following seven levels of mathematical abstraction:
+Abstraction is fundamental to mathematics. Essentially, abstraction filters out specific details which may differ between the objects of interest, and identifies core concepts that generalize many examples at once. One can identify the following levels of mathematical abstraction:
 1. **Numbers:** Initially, we may care about quantities of "actual things", or length/area/volume of geometric shapes. Numbers can be assigned to any of these examples, and arithmetic operations "don't care" whether the numbers refer to apples, oranges, length of segments etc.
 2. **Basic algebra:** Replaces concrete numbers with indeterminates (x, y etc.) that can have any numerical value, and studies equations written in those symbols.
 3. **Functions:** Model quantities that depend on an indeterminate x. By elevating functions as the central object of study, we study all possible assignments to x at once---and how another quantity changes with respect to these assignments.
