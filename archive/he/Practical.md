@@ -3,6 +3,7 @@ layout: post
 category: joke
 title: "פרקטי"
 date: 2017-06-22
+first_comment: "אם כסא נוח זה לא פרקטי, אני לא יודע מה כן!"
 ---
 
 <div dir="rtl" lang="he" markdown="1">
