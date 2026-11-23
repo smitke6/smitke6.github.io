@@ -7,6 +7,18 @@
   h1 { margin-bottom: 0.5em; text-align: center; } 
   .date { color: #666; font-style: italic; margin-bottom: 2em; text-align: center; }
 
+  /* Post captions */
+.caption {
+  max-width: 700px;
+  margin: 0 auto 1.5em;
+  text-align: center;
+  font-size: 1.05em;
+}
+
+.caption p {
+  margin: 0;
+}
+
   /* Table Borders */
   table { border-collapse: collapse; width: 100%; margin: 20px 0; }
   th, td { border: 1px solid #333; padding: 10px; text-align: right; }
@@ -32,6 +44,12 @@
 <h1>{{ page.title }}</h1>
 
 <p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
+
+{% if page.caption %}
+  <div class="caption">
+    {{ page.caption | markdownify }}
+  </div>
+{% endif %}
 
 {{ content }}
 
