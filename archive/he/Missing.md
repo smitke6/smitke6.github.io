@@ -3,6 +3,7 @@ layout: post
 category: joke
 title: "געגועים"
 date: 2017-09-17
+first_comment: "אני אתגעגע אליכם הכי הרבה!"
 ---
 
 <div dir="rtl" lang="he" markdown="1">
