@@ -19,6 +19,13 @@
   margin: 0;
 }
 
+  /* Hebrew captions and bonus comments */
+.caption[dir="rtl"],
+.bonus-comment[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+}
+
   /* Table Borders */
   table { border-collapse: collapse; width: 100%; margin: 20px 0; }
   th, td { border: 1px solid #333; padding: 10px; text-align: right; }
@@ -46,9 +53,9 @@
 <p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
 
 {% if page.caption %}
-  <div class="caption">
-    {{ page.caption | markdownify }}
-  </div>
+  <div class="caption"{% if page.path contains "archive/he/" %} dir="rtl" lang="he"{% endif %}>
+  {{ page.caption | markdownify }}
+</div>
 {% endif %}
 
 {{ content }}
@@ -59,7 +66,7 @@
     <summary style="cursor: pointer; color: #777; font-style: italic; font-size: 0.9em; user-select: none;">
       Bonus...
     </summary>
-    <div style="margin-top: 0.5rem; padding: 0.5rem 1rem; border-right: 3px solid #007acc; background-color: #f9f9f9; font-weight: 500;">
+    <div class="bonus-comment"{% if page.path contains "archive/he/" %} dir="rtl" lang="he"{% endif %} style="margin-top: 0.5rem; padding: 0.5rem 1rem; border-right: 3px solid #007acc; background-color: #f9f9f9; font-weight: 500;">
       {{ page.first_comment | markdownify }}
     </div>
   </details>
