@@ -14,7 +14,7 @@ date: 2017-06-11
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid #eee;">
-      <td style="padding: 12px; vertical-align: middle; direction: ltr; text-align: center">$$\gamma \delta$$</td>
+      <td style="padding: 12px; vertical-align: middle; direction: ltr; text-align: center">$$\delta \gamma$$</td>
       <td style="padding: 12px; vertical-align: middle; text-align: right;">המילה העברית "על"</td>
     </tr>
     <tr style="background-color: #f9f9f9; border-bottom: 1px solid #eee;">
